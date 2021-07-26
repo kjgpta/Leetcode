@@ -6,4 +6,4 @@ class Solution:
         while(i<len(s)):
             su += min(s[i],s[i+1])
             i += 2
-        return su
+        return su 
